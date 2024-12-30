@@ -1,4 +1,4 @@
-# Mac Scripts
+# Scripts
 
 ## How to Use the Scripts
 
